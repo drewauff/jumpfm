@@ -19,6 +19,11 @@ Double click the .dmg file and drag the jumpfm application into Applications.
 ### Usage
 Please refer to the [wiki](https://github.com/heywoodlh/jumpfm/wiki) for usage information including keyboard shortcuts.
 
+
+### Change default editor to TextEdit
+Run this command after running jumpfm the first time:
+`sed -i '' 's/gedit/open -a TextEdit/g' "$HOME"/.jumpfm/settings.json`
+
 # Development
 
 ## Build instructions:
