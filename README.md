@@ -11,6 +11,11 @@ Windows built is not tested at all, install it at your own risk
 <sup>2</sup>
 For a Mac release see [this fork](https://github.com/heywoodlh/jumpfm)
 
+### Mac Specific Keyboard Info:
+Delete - fn + delete
+
+Tip: for all the keyboard mappings requiring ctrl
+
 # \<dev/\>
 
 ## tl;dr.<sup>1,2</sup>
