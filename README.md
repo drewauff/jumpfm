@@ -16,14 +16,12 @@ Double click the .dmg file and drag the jumpfm application into Applications.
 
 ![alt text](https://raw.githubusercontent.com/heywoodlh/jumpfm/master/misc/install.gif) 
 
-### Mac Specific Keyboard Info:
-Delete - fn + delete
+### Usage
+Please refer to the [wiki](https://github.com/heywoodlh/jumpfm/wiki) for usage information including keyboard shortcuts.
 
-Tip: for all the keyboard mappings requiring ctrl
+# Development
 
-# Development:
-
-## Build instructions.
+## Build instructions:
 ```
 git clone git@github.com:heywoodlh/jumpfm.git
 npm i -g typescript electron
@@ -35,7 +33,7 @@ electron .
 ```
 ---
 
-## More development information:
+## Other information:
 
 JumpFm is an [Electron](https://electron.atom.io/) based app.
 It is written in [TypeScript](https://www.typescriptlang.org/).
