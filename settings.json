@@ -1,0 +1,10 @@
+{
+    "timeFormat": "HH:mm:ss",
+    "dateFormat": "MM/DD/YYYY ",
+    "flatModeMaxSize": 5000,
+    "historyMaxSize": 20,
+    "jumpMaxDbSize": 300,
+    "jumpDbSaveInterval": 5,
+    "weatherLocation": "Manti, UT",
+    "editor": "open -a TextEdit"
+}
