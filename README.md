@@ -11,6 +11,11 @@ Windows built is not tested at all, install it at your own risk
 <sup>2</sup>
 For a Mac release see [this fork](https://github.com/heywoodlh/jumpfm)
 
+
+## Installation:
+
+![alt text](https://raw.githubusercontent.com/heywoodlh/jumpfm/master/misc/install.gif) 
+
 ### Mac Specific Keyboard Info:
 Delete - fn + delete
 
