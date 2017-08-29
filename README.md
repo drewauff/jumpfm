@@ -6,7 +6,7 @@ JumpFm is a cross platform<sup>1,2</sup> dual panel file manager with builtin su
 
 
 
-## Installation:
+## Installation
 
 Download the latest release here:
 
