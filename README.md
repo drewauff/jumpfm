@@ -2,7 +2,7 @@
 
 # About
 
-JumpFm is a cross platform<sup>1,2</sup> dual panel file manager with builtin superpowers. This fork contains the OS X release.
+JumpFm is a cross platform dual panel file manager with builtin superpowers. This fork contains the OS X release.
 
 
 
