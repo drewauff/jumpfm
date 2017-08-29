@@ -2,17 +2,17 @@
 
 # About
 
-JumpFm is a cross platform<sup>1,2</sup> dual panel file manager with builtin superpowers. 
+JumpFm is a cross platform<sup>1,2</sup> dual panel file manager with builtin superpowers. This fork contains the OS X release.
 
-----
-<sup>1</sup>
-Windows built is not tested at all, install it at your own risk
-
-<sup>2</sup>
-For a Mac release see [this fork](https://github.com/heywoodlh/jumpfm)
 
 
 ## Installation:
+
+Download the latest release here:
+
+[Releases](https://github.com/heywoodlh/jumpfm/releases)
+
+Double click the .dmg file and drag the jumpfm application into Applications.
 
 ![alt text](https://raw.githubusercontent.com/heywoodlh/jumpfm/master/misc/install.gif) 
 
@@ -21,9 +21,9 @@ Delete - fn + delete
 
 Tip: for all the keyboard mappings requiring ctrl
 
-# \<dev/\>
+# Development:
 
-## tl;dr.<sup>1,2</sup>
+## Build instructions.
 ```
 git clone git@github.com:heywoodlh/jumpfm.git
 npm i -g typescript electron
@@ -34,21 +34,12 @@ sass --watch scss:css
 electron .
 ```
 ---
-<sup>1</sup>
-You might want to [change npm's default directory](https://docs.npmjs.com/getting-started/fixing-npm-permissions#option-2-change-npms-default-directory-to-another-directory)
 
-<sup>2</sup>
-Use different terminal for each of  ```tsc -w```, ```sass --watch scss:css```, ```electron .```
-
-## More \<dev/\>
+## More development information:
 
 JumpFm is an [Electron](https://electron.atom.io/) based app.
 It is written in [TypeScript](https://www.typescriptlang.org/).
 To hack the code all you need is [node.js](https://nodejs.org/en/) a
 [decent editor](http://bit.ly/2wHIoSz) and a [sass compiler](http://sass-lang.com/).
-This is how your terminal should looks like:
-
-![](/misc/dev.png)
-
 
 
