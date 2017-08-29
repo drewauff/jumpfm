@@ -20,7 +20,7 @@ Tip: for all the keyboard mappings requiring ctrl
 
 ## tl;dr.<sup>1,2</sup>
 ```
-git clone git@github.com:Gilad-Kutiel-App/jumpfm.git
+git clone git@github.com:heywoodlh/jumpfm.git
 npm i -g typescript electron
 cd jumpfm
 npm i
