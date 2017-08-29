@@ -1,3 +1,5 @@
+## This is a default ~/.jumpfm/settings.json file. Download it and move to ~/.jumpfm/
+
 {
     "timeFormat": "HH:mm:ss",
     "dateFormat": "MM/DD/YYYY ",
