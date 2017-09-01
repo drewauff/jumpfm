@@ -14,14 +14,15 @@ import * as path from 'path'
 import * as watch from 'node-watch'
 
 interface checkRes {
-    status: number,      // 0 if successful, 1 otherwise 
-    depsWereOk: boolean, // true if dependencies were already satisfied 
+    status: number,         // 0 if successful, 1 otherwise 
+    depsWereOk: boolean,    // true if dependencies were already satisfied 
     log: string[],          // array of logged messages 
     error: string[],        // array of logged errors 
 }
 
 const defaultPlugins = {
     dependencies: {
+        "jumpfm-font-size": ">=1.0.0",
         "jumpfm-clock": ">=1.0.0",
         "jumpfm-copy": ">=1.0.0",
         "jumpfm-file-ops": ">=1.0.0",
