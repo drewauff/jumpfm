@@ -12,10 +12,6 @@ Download the latest release here:
 
 [Releases](https://github.com/heywoodlh/jumpfm/releases)
 
-Double click the .dmg file and drag the jumpfm application into Applications.
-
-![alt text](https://raw.githubusercontent.com/heywoodlh/jumpfm/master/misc/install.gif) 
-
 ### Usage
 Please refer to the [wiki](https://github.com/heywoodlh/jumpfm/wiki) for usage information including keyboard shortcuts.
 
